@@ -1,6 +1,6 @@
 <div class="jumbotron">
   <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
-  <p class="lead">Phoenixのデプロイしてリリースまでやってみたよ</p>
+  <p class="lead">Phoenixのデプロイしてリリースまでやってみたよ<br>簡単なリバースプロキシもやってみた</p>
 </div>
 
 <div class="row marketing">
