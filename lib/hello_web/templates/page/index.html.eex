@@ -1,6 +1,7 @@
 <div class="jumbotron">
   <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
   <p class="lead">Phoenixのデプロイしてリリースまでやってみたよ<br>簡単なリバースプロキシもやってみた</p>
+  <p>プロキシ勉強するのに、<a href="http://www2.matsue-ct.ac.jp/home/kanayama/text/nginx/node1.html">このサイト</a>が強すぎる。まだ必要なところしか見てないけど、ちゃんと一通りみたい</p>
 </div>
 
 <div class="row marketing">
